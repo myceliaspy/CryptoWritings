@@ -71,7 +71,7 @@ Voids (https://twitter.com/Voidsowo): https://mirror.xyz/voidsowo.eth/
 
 jacob (https://twitter.com/js_horne): https://jacob.energy/index.html
 
-polynya (https://twitter.com/epolynya): https://polynya.medium.com/
+polynya (https://twitter.com/epolynya): https://polynya.mirror.xyz/
 
 dcbuilder (https://twitter.com/DCbuild3r): https://dcbuilder.mirror.xyz/
 
