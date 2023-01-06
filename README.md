@@ -7,7 +7,7 @@ Zefram (https://twitter.com/boredGenius): https://zefram.xyz/posts/
 
 Cobie (https://twitter.com/cobie): https://cobie.substack.com/
 
-Matti (https://twitter.com/mattigags): https://substack.com/profile/2568384-matti-
+Matti (https://twitter.com/mattigags): https://wrongalot.substack.com/archive
 
 Ansem (https://twitter.com/blknoiz06): https://substack.com/profile/32859827-ansem
 
