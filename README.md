@@ -1,5 +1,5 @@
 # CryptoWritings
-Unique Accounts: twitter (https://twitter.com/ICTSPAg) + notion (https://ictspa.notion.site/)
+Unique Accounts: twitter (https://twitter.com/lisources) + GitBook (https://lightsource.gitbook.io/be-the-light/light/resource-map)
 
 Collection of Writings by the Independent CryptoTwitter ShitPosting Association
 
