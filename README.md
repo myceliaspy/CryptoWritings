@@ -86,3 +86,5 @@ Nichanan Kesonpat (https://twitter.com/nichanank): https://medium.com/@nichanank
 stu (https://twitter.com/gryptooo): https://blockdoc.substack.com/
 
 Abbey Titcomb (https://twitter.com/abbey_titcomb): https://medium.com/@abbey_titcomb
+
+apriori (https://twitter.com/apriori0x): https://mirror.xyz/apriori.eth
