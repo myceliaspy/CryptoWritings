@@ -90,3 +90,5 @@ Abbey Titcomb (https://twitter.com/abbey_titcomb): https://medium.com/@abbey_tit
 apriori (https://twitter.com/apriori0x): https://mirror.xyz/apriori.eth
 
 steinkirch.eth (https://github.com/go-outside-labs): https://mirror.xyz/steinkirch.eth
+
+LGHT (https://twitter.com/0xlght): https://mirror.xyz/lght.eth
