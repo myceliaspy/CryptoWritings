@@ -92,3 +92,5 @@ apriori (https://twitter.com/apriori0x): https://mirror.xyz/apriori.eth
 steinkirch.eth (https://github.com/go-outside-labs): https://mirror.xyz/steinkirch.eth
 
 LGHT (https://twitter.com/0xlght): https://mirror.xyz/lght.eth
+
+NPC christian (https://twitter.com/coin_analyst_): https://quantum.mirror.xyz/
