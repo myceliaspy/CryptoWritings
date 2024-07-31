@@ -79,7 +79,7 @@ jasperthefriendlyghost (https://twitter.com/Jasper_ETH): https://mirror.xyz/0x04
 
 Akimbo (https://twitter.com/0xAkimbo): https://0xakimbo.substack.com/
 
-pet3rpan (https://twitter.com/pet3rpan_): https://www.pet3rpan.net/blog <- need to include the underscore "_" after this one for the tw acc. rugged by github
+pet3rpan (https://twitter.com/pet3rpan\_): https://www.pet3rpan.net/blog
 
 Nichanan Kesonpat (https://twitter.com/nichanank): https://medium.com/@nichanank
 
@@ -93,4 +93,4 @@ steinkirch.eth (https://github.com/go-outside-labs): https://mirror.xyz/steinkir
 
 LGHT (https://twitter.com/0xlght): https://mirror.xyz/lght.eth
 
-NPC christian (https://twitter.com/coin_analyst_): https://quantum.mirror.xyz/
+NPC christian (https://twitter.com/coin_analyst\_): https://quantum.mirror.xyz/
